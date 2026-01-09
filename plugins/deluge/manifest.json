@@ -1,0 +1,8 @@
+{
+  "id": "deluge",
+  "name": "Deluge",
+  "version": "1.0.0",
+  "description": "Gestionnaire de téléchargements BitTorrent",
+  "author": "MG Tools Core",
+  "minAppVersion": "0.1.0"
+}

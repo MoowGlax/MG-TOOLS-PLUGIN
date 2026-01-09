@@ -1,0 +1,10 @@
+{
+  "id": "youtubetomp3",
+  "name": "Youtube To MP3",
+  "version": "1.0.0",
+  "description": "Téléchargement de vidéos et playlists YouTube en MP3/MP4",
+  "author": "MoowGlax",
+  "main": "index.tsx",
+  "icon": "Youtube",
+  "permissions": ["youtube"]
+}

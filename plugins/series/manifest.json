@@ -1,0 +1,10 @@
+{
+  "id": "series",
+  "name": "Mes Séries",
+  "version": "1.0.0",
+  "description": "Suivi de séries TV avec intégration TMDB et Prowlarr",
+  "author": "MoowGlax",
+  "main": "index.tsx",
+  "icon": "Tv",
+  "permissions": ["tmdb", "prowlarr", "notifications"]
+}
